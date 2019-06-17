@@ -8,6 +8,4 @@ describe "./variable.rb" do
   end
 
 end
-def
 greeting= "Hello World"
-end
